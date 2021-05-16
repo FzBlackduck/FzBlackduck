@@ -5,4 +5,5 @@
 - 📫 How to reach me ...
 
 
-<t>![](https://komarev.com/ghpvc/?username=your-github-username&color=green)</t>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=blueviolet)
+
