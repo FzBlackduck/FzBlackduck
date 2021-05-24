@@ -29,7 +29,7 @@
 
 
 ### Connect with me :smiley:
-<a href="https://www.linkedin.com">
+<a href="www.linkedin.com/in/phanupong-sangpetch-4b3840212">
   <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
 </a>
 <a href="https://www.google.com">
