@@ -14,8 +14,8 @@
                                                 improve own skills better.
 
 
-![](https://komarev.com/ghpvc/?username=your-github-FzBlackduck)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-FzBlackduck&label=PROFILE+VIEWS&color=blueviolet)
+
 
 ### Programming Languages  :rocket:
 |<img src="https://github.com/FzBlackduck/FzBlackduck/blob/main/image/Programming_Languages/kotlin2.jpg" width=60> | <img src="https://github.com/FzBlackduck/FzBlackduck/blob/main/image/Programming_Languages/java.jpg" width=60  height=65> |<img src="https://github.com/FzBlackduck/FzBlackduck/blob/main/image/Programming_Languages/c%232.jpg" width=60> | <img src="https://github.com/FzBlackduck/FzBlackduck/blob/main/image/Programming_Languages/html.png" width=60> |<img src="https://github.com/FzBlackduck/FzBlackduck/blob/main/image/Programming_Languages/php.png" width=80> |
