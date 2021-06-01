@@ -14,7 +14,7 @@
                                                 improve own skills better.
 
 
-
+![](https://komarev.com/ghpvc/?username=your-github-FzBlackduck)
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=blueviolet)
 
 ### Programming Languages  :rocket:
