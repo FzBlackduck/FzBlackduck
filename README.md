@@ -7,7 +7,7 @@
 </p>
 
 
-                                                      improve own skills better.
+                                                            improve your self skills better.
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-FzBlackduck&label=PROFILE+VIEWS&color=blueviolet)
