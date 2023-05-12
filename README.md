@@ -7,10 +7,6 @@
 </p>
 
 
-
-
-                       I’m Phanupong Sangepetch B.S.Information Technology @KUKPS interested Android & ios 
-                          because this work is challenging  I would like to bring knowledge for 
                                                 improve own skills better.
 
 
